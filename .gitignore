@@ -1,0 +1,10 @@
+
+
+# dotfiles
+.*
+!.gitignore
+
+# js tooling
+node_modules
+
+
